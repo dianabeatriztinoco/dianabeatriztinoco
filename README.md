@@ -8,7 +8,9 @@ Ask me about my dog!
 
 You can reach me at: 
 
-📫  dianabeatriztinoco@gmail.com
+- Email: dianabeatriztinoco@gmail.com
+- LinkedIn: www.linkedin.com/in/dianabeatriztinoco
+
 
 
 
