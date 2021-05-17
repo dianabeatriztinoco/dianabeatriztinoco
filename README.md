@@ -15,8 +15,9 @@ You can reach me at:
 - Email: dianabeatriztinoco@gmail.com
 - LinkedIn: www.linkedin.com/in/dianabeatriztinoco
 
-
-
+bilingual
+- spanish 
+- english 
 
 <!--
 **dianabeatriztinoco/dianabeatriztinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
