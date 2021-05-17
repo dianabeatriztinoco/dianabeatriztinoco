@@ -1,6 +1,11 @@
 ### Hola 👋
 
 ![Pink Clouds](pinkclouds.jpg)
+.fit {
+  max-width: 99%;
+  max-height: 99%;
+}
+<img class="fit" src="pinkclouds.jpg">
 
 
 I am a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
