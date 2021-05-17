@@ -1,7 +1,7 @@
 ### Hola 👋
 
-![Pink Clouds](/images/pinkclouds.jpg)
-Format: ![Alt Text](url)
+![Pink Clouds](pinkclouds.jpg)
+
 
 I am a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
 
