@@ -6,7 +6,7 @@
 
 I am a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
 
-I am looking to collaborate/learning more about microfinancing third world countries. 
+I am looking to collaborate/learn more about microfinancing third world countries. 
 
 Ask me about my dog! 
 
