@@ -4,7 +4,7 @@
 
 
 
-I am a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
+I'm a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
 
 I am looking to collaborate/learn more about microfinancing third world countries and how we can use technology to facilatate it. 
 
