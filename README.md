@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hola 👋
+
+I am a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
+
+I am looking to collaborate/learning more about microfinancing third world countries. 
+
+Ask me about my dog! 
+
+You can reach me at: 
+
+📫  dianabeatriztinoco@gmail.com
+
+
 
 <!--
 **dianabeatriztinoco/dianabeatriztinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
