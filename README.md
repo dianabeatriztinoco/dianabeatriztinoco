@@ -8,24 +8,24 @@ Hola!
 I currently working on my first full stack project! 
 
 🔭 technologies: 
-* JAVASCRIPT
-* CSS 
-* HTML
-* NODE.JS
-* MARKDOWN
-* MYSQL
-* POSTGRESS
-* EXPRESS.JS
-* SQL
-* AJAX 
-* JQUERY
-* OOP
-* RESTful 
+- JAVASCRIPT
+- CSS 
+- HTML
+- NODE.JS
+- MARKDOWN
+- MYSQL
+- POSTGRESS
+- EXPRESS.JS
+- SQL
+- AJAX 
+- JQUERY
+- OOP
+- RESTful 
 
 🌱  will be learning: 
-* REACT 
-* REDUX
-* PYTHON
+- REACT 
+- REDUX
+- PYTHON
 
 📫  you can reach me at: 
 
