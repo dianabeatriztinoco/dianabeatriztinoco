@@ -1,5 +1,5 @@
 ### Hola 👋
-I'm Diana! Currently working on my first full stack project! 
+I'm Diana! Love to learn and solve problems! Currently working on my first full stack project! 
 
 🔭 technologies:               
 - JAVASCRIPT
