@@ -1,13 +1,7 @@
 ### Hola 👋
+I'm Diana! Currently working on my first full stack project! 
 
-![Pink Clouds](pinkclouds-1.jpg)
-
-
-Hola! 
-
-I currently working on my first full stack project! 
-
-🔭 technologies: 
+🔭 technologies:               
 - JAVASCRIPT
 - CSS 
 - HTML
@@ -27,7 +21,7 @@ I currently working on my first full stack project!
 - REDUX
 - PYTHON
 
-📫  you can reach me at: 
+📫  You can reach me at: 
 
 - Email: dianabeatriztinoco@gmail.com
 - LinkedIn: www.linkedin.com/in/dianabeatriztinoco
