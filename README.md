@@ -3,6 +3,8 @@
 
 ### HOLA! 
 I'm Diana! I love to learn and solve problems! Currently working on my first full stack project! 
+
+
 🔭 technologies:               
 - JAVASCRIPT
 - CSS 
