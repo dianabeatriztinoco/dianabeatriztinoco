@@ -1,5 +1,3 @@
-![Logo](/download.jpg)![Logo](/download.jpg)![Logo](/download.jpg)![Logo](/download.jpg)
-
 
 ### HOLA! 
 I'm Diana! I love to learn and solve problems! Currently working on my first full stack project! 
