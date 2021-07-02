@@ -1,5 +1,4 @@
-![Logo](/download.jpg)![Logo](/download.jpg)![Logo](/download.jpg)![Logo](/download.jpg)
-### Hola 👋
+![Logo](/download.jpg)![Logo](/download.jpg)![Logo](/download.jpg)
 I'm Diana! Love to learn and solve problems! Currently working on my first full stack project! 
 🔭 technologies:               
 - JAVASCRIPT
