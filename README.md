@@ -3,33 +3,41 @@
 ![Pink Clouds](pinkclouds-1.jpg)
 
 
+Hola! 
 
-I'm a software engineer in training! When I'm not coding I'm doing yoga or playing in a brass band. 
+I currently working on my first full stack project! 
 
-I am looking to collaborate/learn more about microfinancing third world countries and how we can use technology to facilatate it. 
+🔭 technologies: 
+* JAVASCRIPT
+* CSS 
+* HTML
+* NODE.JS
+* MARKDOWN
+* MYSQL
+* POSTGRESS
+* EXPRESS.JS
+* SQL
+* AJAX 
+* JQUERY
+* OOP
+* RESTful 
 
-Ask me about my dog! 
+🌱  will be learning: 
+* REACT 
+* REDUX
+* PYTHON
 
-You can reach me at: 
+📫  you can reach me at: 
 
 - Email: dianabeatriztinoco@gmail.com
 - LinkedIn: www.linkedin.com/in/dianabeatriztinoco
 
-bilingual
+⚡ bilingual
 - spanish 
 - english 
 
 <!--
 **dianabeatriztinoco/dianabeatriztinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
