@@ -1,6 +1,6 @@
+![Logo](/download.jpg)
 ### Hola 👋
 I'm Diana! Love to learn and solve problems! Currently working on my first full stack project! 
-
 🔭 technologies:               
 - JAVASCRIPT
 - CSS 
