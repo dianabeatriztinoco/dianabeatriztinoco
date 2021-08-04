@@ -21,6 +21,8 @@ I love to learn and solve problems! Currently working on my first full stack pro
 - REACT 
 - REDUX
 - PYTHON
+- SQLALCHEMY 
+- FLASK 
 
 📫  You can reach me at: 
 
