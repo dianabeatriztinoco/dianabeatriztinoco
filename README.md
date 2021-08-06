@@ -2,7 +2,7 @@
 I love to learn and solve problems! Currently working on my first full stack project! 
 
 
-🔭 technologies:               
+🔭  technologies:               
 - JAVASCRIPT
 - CSS 
 - HTML
@@ -20,7 +20,7 @@ I love to learn and solve problems! Currently working on my first full stack pro
 - FLASK 
 - SQLALCHEMY
 
-🌱  will be learning: 
+🌱  learning: 
 - REACT 
 - REDUX
 
