@@ -16,13 +16,14 @@ I love to learn and solve problems! Currently working on my first full stack pro
 - JQUERY
 - OOP
 - RESTful 
+- PYTHON
+- FLASK 
+- SQLALCHEMY
 
 🌱  will be learning: 
 - REACT 
 - REDUX
-- PYTHON
-- SQLALCHEMY 
-- FLASK 
+
 
 📫  You can reach me at: 
 
