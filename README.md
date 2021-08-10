@@ -1,9 +1,9 @@
-### HOLA! I'm Diana. 
+<!-- ### HOLA! I'm Diana. 
 I love to learn and solve problems! Currently working on my first full stack project! 
 
 
-🔭  technologies:               
-- JAVASCRIPT
+🔭  technologies: 
+- JAVASCRIPT - CSS - HTML - NODE.JS - MARKDOWN - MYSQL - POSTGRES - EXPRESS - AJAX - JQUERY 
 - CSS 
 - HTML
 - NODE.JS
@@ -33,7 +33,7 @@ I love to learn and solve problems! Currently working on my first full stack pro
 ⚡ bilingual
 - spanish 
 - english 
-
+ -->
 <!--
 **dianabeatriztinoco/dianabeatriztinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
